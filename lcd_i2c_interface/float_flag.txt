@@ -1,0 +1,2 @@
+//Put this flag in project settings linker miscelleneous other flag
+-u _printf_float
